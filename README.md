@@ -7,17 +7,12 @@ I am junior .NET backend developer. My adventure with programming began in 2013 
 <img align="left" alt="DotNet 5+" src="https://img.shields.io/badge/.NET-%23512BD4.svg?&style=for-the-badge&logo=dotnet&logoColor=white" />
 <img align="left" alt="C Sharp" src="https://img.shields.io/badge/C%23-%23239120.svg?&style=for-the-badge&logo=csharp&logoColor=white" />
 <img align="left" alt="SQL" src="https://img.shields.io/badge/SQL-%234169E1.svg?&style=for-the-badge" />
-
-<br>
-<br>
-
 <img align="left" alt="Python" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" />
 <img align="left" alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
 <img align="left" alt="TypeScript" src="https://img.shields.io/badge/Type Script-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="left" alt="HTML 5" src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="SCSS" src="https://img.shields.io/badge/SCSS-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />
-
 <img align="left" alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
 <img align="left" alt="PHP Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" />
  
