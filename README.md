@@ -21,6 +21,7 @@ I am junior .NET backend developer. My adventure with programming began in 2013 
 
 ## 🔧 Tools and Systems
 ![](https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Github%20Actions-%232088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
 ![](https://img.shields.io/badge/Windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/WSL-%230078D6.svg?&style=for-the-badge)
